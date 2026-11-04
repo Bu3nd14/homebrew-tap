@@ -1,6 +1,6 @@
 cask "sidecar-switch" do
-  version "0.2.0"
-  sha256 "6a7f2ce65c4748676e127fc9d1235151a0338e964efa48abbda60191e51c03b9"
+  version "0.3.0"
+  sha256 "37b55961942373df9e89e06787117519965101ecb4ac7c7e6708d354408a2dc9"
 
   url "https://github.com/Bu3nd14/SidecarLauncher/releases/download/sidecar-switch-v#{version}/SidecarSwitch-#{version}.zip"
   name "SidecarSwitch"
